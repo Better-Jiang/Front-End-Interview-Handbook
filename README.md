@@ -8,7 +8,7 @@ description: 主页
 
 段落  Paragraph
 
-```text
+```javascript
 console.log('code block');
 ```
 
