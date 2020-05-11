@@ -12,6 +12,28 @@ description: 主页
 
 ### [外部链接](https://github.com/Better-Jiang)
 
+{% embed url="https://www.youtube.com/watch?time\_continue=2&v=\_HjToekoEMk&feature=emb\_logo" %}
+
+{% embed url="https://www.youtube.com/watch?time\_continue=2&v=\_HjToekoEMk&feature=emb\_logo" %}
+
+{% embed url="https://www.youtube.com/watch?v=SWYqp7iY\_Tc" %}
+
+{% embed url="https://medium.com/s/silicon-satire/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558" %}
+
+{% embed url="https://level.medium.com/how-the-durag-beat-both-respectability-politics-and-gentrification-2499c161f333" %}
+
+{% embed url="http://www.xinhuanet.com/politics/leaders/2020-05/11/c\_1125969713.htm" %}
+
+{% embed url="https://codepen.io/better-jiang/pen/KKdpKWx" %}
+
+{% embed url="https://v.qq.com/x/cover/hhmsk7uqhbcxkkw.html" %}
+
+
+
+
+
+
+
 ```javascript
 console.log('code block');
 ```
