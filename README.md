@@ -6,7 +6,15 @@ description: 主页
 
 ## 这是一个主页  Heading 1
 
-段落  Paragraph
+段落  Paragraph  
+
+### [内部链接](liu-lan-qi-jie-mi.md#jie-xi-dom-shu-gou-jian)
+
+### [外部链接](https://github.com/Better-Jiang)
+
+{% embed url="https://mailto:something@qq.com" %}
+
+\`\`
 
 ```javascript
 console.log('code block');
@@ -90,6 +98,8 @@ a = b*23-23
 $$
 
 {% file src=".gitbook/assets/wei-biao-ti-1.jpg" %}
+
+{% page-ref page="liu-lan-qi-jie-mi.md" %}
 
 
 
