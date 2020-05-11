@@ -12,10 +12,6 @@ description: 主页
 
 ### [外部链接](https://github.com/Better-Jiang)
 
-{% embed url="https://mailto:something@qq.com" %}
-
-\`\`
-
 ```javascript
 console.log('code block');
 ```
